@@ -25,7 +25,7 @@ const USER_CONFIG = {
 
     /** 节假日 */
     // 下一休息日综合提醒
-    holidaytts: true,
+    holidaytts: false,
 
     /** 每日N句 */
     // 金山每日一句
@@ -45,7 +45,7 @@ const USER_CONFIG = {
     horoscope: false,
 
     /** 生日消息和节日消息 */
-    birthdayMessage: true,
+    birthdayMessage: false,
 
     // 学生课表
     courseSchedule: false,
@@ -60,10 +60,10 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [hz18716455625
     {
       // 想要发送的人的名字
-      name: '老婆0',
+      name: 'bb',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '',
       // 你想对他发送的模板消息的模板ID
