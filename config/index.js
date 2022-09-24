@@ -7,12 +7,12 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: '',
+  APP_ID: 'wx826b7e3825bdf359',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '',
+  APP_SECRET: 'f119a31b54c7ff2796a3c93aadd1d7ce',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -65,11 +65,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'bb',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ooZAL68eyjgMTB2RONh5vwzrSHcQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: '5SvDhlCmxnXSlPUZSCpaG2tTScGa_wW0CeUMo7dmwZc',
       // 所在省份
-      province: '广东',
+      province: '重庆',
       // 所在城市
       city: '肇庆',
       // 新历生日, 仅用作获取星座运势, 格式必须
